@@ -1048,6 +1048,56 @@ Transform:
   m_Father: {fileID: 1250603382}
   m_RootOrder: 49
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &52079301
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 52079303}
+  - component: {fileID: 52079302}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &52079302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 52079301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 0.7173462, y: 0.19337463, z: 3.7497864}
+  - {x: -3.218811, y: -0.091682434, z: -2.1365356}
+  - {x: 0.43963623, y: -0.23902893, z: -3.9464417}
+  - {x: 3.9282837, y: 0.13732147, z: 2.3232422}
+--- !u!4 &52079303
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 52079301}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 698.9004, y: -78.78697, z: 321.38834}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 152
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &52891758
 GameObject:
   m_ObjectHideFlags: 0
@@ -1080,6 +1130,56 @@ Transform:
   m_Father: {fileID: 815136218}
   m_RootOrder: 103
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &55760093
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 55760094}
+  - component: {fileID: 55760095}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &55760094
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 55760093}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 314.4383, y: -106.15551, z: 559.74445}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 147
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &55760095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 55760093}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 1.5672607, y: -0.60245514, z: 5.420471}
+  - {x: -4.3363647, y: 0.70451355, z: -3.8912354}
+  - {x: -2.0541382, y: 0.92591095, z: -5.458618}
+  - {x: 4.823303, y: -1.0279617, z: 3.9293213}
 --- !u!1 &55769204
 GameObject:
   m_ObjectHideFlags: 0
@@ -1366,6 +1466,56 @@ Transform:
   m_Father: {fileID: 815136218}
   m_RootOrder: 118
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &93889186
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 93889188}
+  - component: {fileID: 93889187}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &93889187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 93889186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: -2.5751343, y: 0.7221756, z: 4.3574467}
+  - {x: -4.300171, y: -0.5531082, z: -2.306404}
+  - {x: 1.1690063, y: -0.7626724, z: -3.7056618}
+  - {x: 2.4837646, y: 0.5935898, z: 2.8461685}
+--- !u!4 &93889188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 93889186}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 726.55005, y: -97.8312, z: -32.16813}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 153
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &94427404
 GameObject:
   m_ObjectHideFlags: 0
@@ -1594,6 +1744,56 @@ Transform:
   m_Father: {fileID: 815136218}
   m_RootOrder: 96
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &109726212
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 109726214}
+  - component: {fileID: 109726213}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &109726213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 109726212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 0.30078125, y: 0.10860443, z: 2.9549866}
+  - {x: -3.0220947, y: -0.041130066, z: -0.90878296}
+  - {x: 0.5654907, y: -0.07299042, z: -3.8318787}
+  - {x: 4.15979, y: 0.0055160522, z: 0.21499634}
+--- !u!4 &109726214
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 109726212}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 731.12933, y: -81.25718, z: 270.6323}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 151
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &113431034
 GameObject:
   m_ObjectHideFlags: 0
@@ -1776,6 +1976,56 @@ Transform:
   m_Father: {fileID: 815136218}
   m_RootOrder: 98
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &139459299
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 139459300}
+  - component: {fileID: 139459301}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &139459300
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 139459299}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 63.56476, y: -85.85172, z: 91.64374}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 142
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &139459301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 139459299}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 5.9145813, y: 0.009841919, z: 2.6662521}
+  - {x: -4.6679077, y: 0.005958557, z: 4.481346}
+  - {x: -5.78384, y: -0.008308411, z: -3.072464}
+  - {x: 4.672577, y: -0.0074920654, z: -5.239609}
 --- !u!1 &140880936
 GameObject:
   m_ObjectHideFlags: 0
@@ -2822,6 +3072,56 @@ MonoBehaviour:
   yieldToLanes: []
   laneTurnType: 1
   speedLimit: 11.176
+--- !u!1 &208869622
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 208869624}
+  - component: {fileID: 208869623}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &208869623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 208869622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 1.8637238, y: 0.8238983, z: 5.2083206}
+  - {x: -5.590172, y: -0.33609772, z: -0.92598724}
+  - {x: -2.7007751, y: -0.80249023, z: -4.2637787}
+  - {x: 4.6128235, y: 0.314682, z: 1.7146149}
+--- !u!4 &208869624
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 208869622}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 77.90219, y: -110.96854, z: -96.406555}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 157
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &212693118
 GameObject:
   m_ObjectHideFlags: 0
@@ -4165,6 +4465,56 @@ Transform:
   m_Father: {fileID: 1767320906}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &286691493
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 286691495}
+  - component: {fileID: 286691494}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &286691494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 286691493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: -0.7722168, y: 0.77381134, z: 4.5422134}
+  - {x: 4.930481, y: -0.13957977, z: -0.88770294}
+  - {x: 1.0783691, y: -0.7925186, z: -4.7475433}
+  - {x: -4.8032837, y: 0.15827179, z: 0.6055832}
+--- !u!4 &286691495
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 286691493}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 641.5175, y: -115.27448, z: -119.256966}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 154
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &290607173
 GameObject:
   m_ObjectHideFlags: 0
@@ -4461,6 +4811,56 @@ Transform:
   m_Children: []
   m_Father: {fileID: 52891759}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &316073467
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 316073469}
+  - component: {fileID: 316073468}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &316073468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 316073467}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: -0.47973633, y: 0.08099365, z: 3.9243927}
+  - {x: -3.8361816, y: -0.040527344, z: 0.0320282}
+  - {x: -0.5140991, y: -0.0748291, z: -2.9702759}
+  - {x: 2.9343872, y: 0.03437805, z: 1.0178528}
+--- !u!4 &316073469
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 316073467}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 865.0671, y: -84.81015, z: 155.8964}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 150
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &318636338
 GameObject:
@@ -4774,13 +5174,13 @@ MonoBehaviour:
   height: 0.1
   mapLocalPositions:
   - {x: -0.884861, y: -0.13227554, z: -94.81334}
-  - {x: 1.913208, y: 0.9004634, z: -88.56793}
-  - {x: 4.3815804, y: 1.9419132, z: -81.254875}
+  - {x: 2.2191467, y: 0.90046275, z: -88.70973}
+  - {x: 4.9160366, y: 1.9419161, z: -81.412926}
   - {x: 6.5679684, y: 2.7343442, z: -75.83626}
   - {x: 7.4188747, y: 3.4345415, z: -68.79126}
   - {x: 8.126762, y: 3.9760895, z: -61.746597}
   - {x: 8.578968, y: 4.391203, z: -55.137302}
-  - {x: 8.749571, y: 4.2986884, z: -48.733265}
+  - {x: 8.283474, y: 4.298689, z: -48.724957}
   - {x: 7.96383, y: 4.088674, z: -42.25889}
   - {x: 7.46157, y: 3.7877398, z: -32.561844}
   - {x: 6.9982243, y: 3.5643697, z: -25.47866}
@@ -9840,6 +10240,56 @@ Transform:
   m_Father: {fileID: 878886122}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &677684078
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 677684079}
+  - component: {fileID: 677684080}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &677684079
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 677684078}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 88.70383, y: -84.37421, z: 175.48074}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 143
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &677684080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 677684078}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 3.1929321, y: 0.042541504, z: 2.7098236}
+  - {x: -1.2706299, y: 0.0493927, z: 3.9684296}
+  - {x: -3.4494705, y: -0.04385376, z: -2.6815033}
+  - {x: 1.1209564, y: -0.048095703, z: -4.15921}
 --- !u!1 &680893187
 GameObject:
   m_ObjectHideFlags: 0
@@ -11868,6 +12318,56 @@ MonoBehaviour:
   isStopSign: 0
   stopSign: {fileID: 0}
   currentState: 2
+--- !u!1 &795179742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 795179744}
+  - component: {fileID: 795179743}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &795179743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 795179742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 2.9027252, y: -0.0038757324, z: 0.82614136}
+  - {x: -0.31437683, y: -0.038749695, z: -2.8294983}
+  - {x: -3.0050507, y: -0.0033721924, z: -0.81152344}
+  - {x: 0.41670227, y: 0.04600525, z: 2.8148804}
+--- !u!4 &795179744
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 795179742}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 237.50285, y: -85.502846, z: 119.382996}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 159
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &801092166
 GameObject:
   m_ObjectHideFlags: 0
@@ -12673,6 +13173,56 @@ MonoBehaviour:
   isStopSign: 0
   stopSign: {fileID: 0}
   currentState: 2
+--- !u!1 &837958361
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 837958363}
+  - component: {fileID: 837958362}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &837958362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 837958361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 4.620392, y: 0.508873, z: 2.5187988}
+  - {x: -2.4201355, y: -0.8300934, z: -4.4913483}
+  - {x: -4.4534607, y: -0.47639465, z: -2.5794983}
+  - {x: 2.2532043, y: 0.7976227, z: 4.5520782}
+--- !u!4 &837958363
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 837958361}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 125.02353, y: -119.81213, z: -144.70395}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 156
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &839588445
 GameObject:
   m_ObjectHideFlags: 0
@@ -13316,76 +13866,6 @@ MonoBehaviour:
   isStopSign: 0
   stopSign: {fileID: 0}
   currentState: 2
---- !u!1001 &869280437
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -364223573239433514, guid: 2ad089f600e0a104da66c659c0a45594,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: -364223573239433514, guid: 2ad089f600e0a104da66c659c0a45594,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -364223573239433514, guid: 2ad089f600e0a104da66c659c0a45594,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -364223573239433514, guid: 2ad089f600e0a104da66c659c0a45594,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -364223573239433514, guid: 2ad089f600e0a104da66c659c0a45594,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: -364223573239433514, guid: 2ad089f600e0a104da66c659c0a45594,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -364223573239433514, guid: 2ad089f600e0a104da66c659c0a45594,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: -364223573239433514, guid: 2ad089f600e0a104da66c659c0a45594,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -364223573239433514, guid: 2ad089f600e0a104da66c659c0a45594,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -364223573239433514, guid: 2ad089f600e0a104da66c659c0a45594,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -270
-      objectReference: {fileID: 0}
-    - target: {fileID: -364223573239433514, guid: 2ad089f600e0a104da66c659c0a45594,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8980549144392899874, guid: 2ad089f600e0a104da66c659c0a45594,
-        type: 3}
-      propertyPath: m_Name
-      value: height_ytu_davutpasa
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: -4216948427090074523, guid: 2ad089f600e0a104da66c659c0a45594,
-    type: 3}
 --- !u!1 &869965419
 GameObject:
   m_ObjectHideFlags: 0
@@ -15052,6 +15532,56 @@ MonoBehaviour:
   isStopSign: 0
   stopSign: {fileID: 0}
   currentState: 2
+--- !u!1 &999059054
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 999059056}
+  - component: {fileID: 999059055}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &999059055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 999059054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 3.149414, y: 0.5071564, z: 2.3961487}
+  - {x: -1.9375, y: 0.73690796, z: 3.4441223}
+  - {x: -3.1166992, y: -0.49205017, z: -2.3415527}
+  - {x: 1.9046631, y: -0.75201416, z: -3.4987183}
+--- !u!4 &999059056
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 999059054}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 907.18054, y: -99.30168, z: -39.01834}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 149
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1000543593
 GameObject:
   m_ObjectHideFlags: 0
@@ -18054,6 +18584,56 @@ MonoBehaviour:
   isStopSign: 0
   stopSign: {fileID: 0}
   currentState: 2
+--- !u!1 &1161319569
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1161319571}
+  - component: {fileID: 1161319570}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1161319570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1161319569}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 3.989746, y: -0.26670837, z: -1.3783112}
+  - {x: -0.046203613, y: 0.88139343, z: 4.1085663}
+  - {x: -3.50177, y: 0.31943512, z: 1.6289215}
+  - {x: -0.4418335, y: -0.9341202, z: -4.3591766}
+--- !u!4 &1161319571
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1161319569}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 548.6098, y: -102.38562, z: -53.442184}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 158
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1165082695
 GameObject:
   m_ObjectHideFlags: 0
@@ -18290,6 +18870,56 @@ Transform:
   - {fileID: 1570084111}
   m_Father: {fileID: 815136218}
   m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1176658846
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1176658848}
+  - component: {fileID: 1176658847}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1176658847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1176658846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 0.53512573, y: -0.16377258, z: -3.8631287}
+  - {x: -3.9603577, y: -0.015533447, z: -0.53518677}
+  - {x: -0.41836548, y: 0.21239471, z: 3.8825989}
+  - {x: 3.8435974, y: -0.033096313, z: 0.51571655}
+--- !u!4 &1176658848
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1176658846}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 158.25003, y: -79.99756, z: 298.63608}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 161
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1183602302
 GameObject:
@@ -18641,6 +19271,56 @@ MonoBehaviour:
   isStopSign: 0
   stopSign: {fileID: 0}
   currentState: 2
+--- !u!1 &1208106246
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1208106247}
+  - component: {fileID: 1208106248}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1208106247
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1208106246}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 109.56003, y: -82.17724, z: 248.33894}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 144
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1208106248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1208106246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 3.068634, y: 0.03048706, z: -0.14259338}
+  - {x: -0.90304565, y: 0.09134674, z: 2.6038666}
+  - {x: -3.058197, y: -0.074913025, z: 0.32218933}
+  - {x: 0.89260864, y: -0.046920776, z: -2.7834625}
 --- !u!1 &1209291744
 GameObject:
   m_ObjectHideFlags: 0
@@ -19429,8 +20109,79 @@ Transform:
   - {fileID: 200808255}
   - {fileID: 1586494669}
   - {fileID: 2045738971}
+  - {fileID: 139459300}
+  - {fileID: 677684079}
+  - {fileID: 1208106247}
+  - {fileID: 1713857387}
+  - {fileID: 1863882803}
+  - {fileID: 55760094}
+  - {fileID: 2006477310}
+  - {fileID: 999059056}
+  - {fileID: 316073469}
+  - {fileID: 109726214}
+  - {fileID: 52079303}
+  - {fileID: 93889188}
+  - {fileID: 286691495}
+  - {fileID: 1290073679}
+  - {fileID: 837958363}
+  - {fileID: 208869624}
+  - {fileID: 1161319571}
+  - {fileID: 795179744}
+  - {fileID: 2057979873}
+  - {fileID: 1176658848}
+  - {fileID: 1256528615}
   m_Father: {fileID: 815136218}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1256528613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1256528615}
+  - component: {fileID: 1256528614}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1256528614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1256528613}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 2.569641, y: 0.52806854, z: -4.064514}
+  - {x: -4.4628296, y: -0.17733765, z: 1.3737793}
+  - {x: -2.27063, y: -0.50675964, z: 3.9077148}
+  - {x: 4.1638184, y: 0.15602112, z: -1.216919}
+--- !u!4 &1256528615
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1256528613}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 178.99237, y: -106.17411, z: 561.99005}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 162
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1258358567
 GameObject:
@@ -19673,6 +20424,56 @@ MonoBehaviour:
   isStopSign: 0
   stopSign: {fileID: 0}
   currentState: 2
+--- !u!1 &1290073677
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1290073679}
+  - component: {fileID: 1290073678}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1290073678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1290073677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 0.04309082, y: 0.6798706, z: 4.9673004}
+  - {x: 4.9365234, y: -0.20668793, z: -1.6557312}
+  - {x: 0.19146729, y: -0.6536331, z: -4.8189697}
+  - {x: -5.1711426, y: 0.18045807, z: 1.5074158}
+--- !u!4 &1290073679
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1290073677}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 564.3089, y: -126.67675, z: -188.58218}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 155
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1292783185
 GameObject:
   m_ObjectHideFlags: 0
@@ -19961,6 +20762,76 @@ MonoBehaviour:
   yieldToLanes: []
   laneTurnType: 1
   speedLimit: 30
+--- !u!1001 &1303156868
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -364223573239433514, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -364223573239433514, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -364223573239433514, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -364223573239433514, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -364223573239433514, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -364223573239433514, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -364223573239433514, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -364223573239433514, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -364223573239433514, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -364223573239433514, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -270
+      objectReference: {fileID: 0}
+    - target: {fileID: -364223573239433514, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8980549144392899874, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+        type: 3}
+      propertyPath: m_Name
+      value: height_ytu_davutpasa_2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: -4216948427090074523, guid: 9cbe6f2cb6e5c604581d4c3e1e2de962,
+    type: 3}
 --- !u!1 &1308373023
 GameObject:
   m_ObjectHideFlags: 0
@@ -25751,6 +26622,56 @@ MonoBehaviour:
   yieldToLanes: []
   laneTurnType: 2
   speedLimit: 11.176
+--- !u!1 &1695536502
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1695536504}
+  - component: {fileID: 1695536503}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1695536503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695536502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: -1.8278046, y: 0.7339039, z: 4.7865906}
+  - {x: -3.5881805, y: -0.4259205, z: -2.8773499}
+  - {x: 1.8548737, y: -0.80252266, z: -5.1250305}
+  - {x: 3.5611115, y: 0.49453735, z: 3.2158203}
+--- !u!4 &1695536504
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695536502}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 173.57317, y: 27.372484, z: -161.63043}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1700034862
 GameObject:
   m_ObjectHideFlags: 0
@@ -25818,6 +26739,56 @@ MonoBehaviour:
   yieldToLanes: []
   laneTurnType: 2
   speedLimit: 30
+--- !u!1 &1713857386
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1713857387}
+  - component: {fileID: 1713857388}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1713857387
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713857386}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 142.44476, y: -98.30204, z: 505.81403}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 145
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1713857388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713857386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 4.0892944, y: -0.01285553, z: 0.08532715}
+  - {x: -2.3330688, y: -0.48970795, z: 3.1359863}
+  - {x: -4.0792847, y: 0.068595886, z: -0.456604}
+  - {x: 2.323059, y: 0.43395996, z: -2.7647095}
 --- !u!1 &1717303801
 GameObject:
   m_ObjectHideFlags: 0
@@ -29013,6 +29984,56 @@ MonoBehaviour:
   isStopSign: 0
   stopSign: {fileID: 0}
   currentState: 2
+--- !u!1 &1863882802
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1863882803}
+  - component: {fileID: 1863882804}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1863882803
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1863882802}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 274.90833, y: -108.8923, z: 585.2886}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 146
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1863882804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1863882802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 4.6552124, y: -0.46316528, z: 4.4299316}
+  - {x: -2.4193115, y: 0.6301727, z: -5.998352}
+  - {x: -4.888794, y: 0.44104004, z: -4.329712}
+  - {x: 2.652832, y: -0.6080475, z: 5.8981323}
 --- !u!1 &1864548104
 GameObject:
   m_ObjectHideFlags: 0
@@ -31395,6 +32416,56 @@ MonoBehaviour:
   isStopSign: 0
   stopSign: {fileID: 0}
   currentState: 2
+--- !u!1 &2006477309
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2006477310}
+  - component: {fileID: 2006477311}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2006477310
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2006477309}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 471.31482, y: -88.580376, z: 447.44763}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 148
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2006477311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2006477309}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 0.3782959, y: -0.64466095, z: 3.4228516}
+  - {x: -3.3388062, y: 0.22290802, z: -1.2093506}
+  - {x: -0.68652344, y: 0.6921005, z: -3.6376953}
+  - {x: 3.6469727, y: -0.27033234, z: 1.4242554}
 --- !u!1 &2006912645
 GameObject:
   m_ObjectHideFlags: 0
@@ -32263,10 +33334,10 @@ MonoBehaviour:
   DisplayHandles: 1
   height: 0.1
   mapLocalPositions:
-  - {x: 3.5375977, y: -0.45298767, z: -2.2422333}
-  - {x: -1.6444092, y: 0.7744827, z: 3.9612885}
-  - {x: -3.487915, y: 0.4364853, z: 2.2422333}
-  - {x: 1.5946045, y: -0.7579727, z: -3.9612885}
+  - {x: 3.8084106, y: -0.45298767, z: -2.0255814}
+  - {x: -1.048584, y: 0.7744827, z: 4.394577}
+  - {x: -3.7316284, y: 0.4364853, z: 2.2693138}
+  - {x: 1.1342163, y: -0.7579727, z: -4.150856}
 --- !u!1 &2050308088
 GameObject:
   m_ObjectHideFlags: 0
@@ -32522,6 +33593,56 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1802104198}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2057979871
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2057979873}
+  - component: {fileID: 2057979872}
+  m_Layer: 0
+  m_Name: MapSpeedBump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2057979872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2057979871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79779725936d131499f1b355b27fa922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayHandles: 1
+  height: 0.1
+  mapLocalPositions:
+  - {x: 0.85539246, y: -0.07014465, z: -3.8094177}
+  - {x: 3.4875946, y: 0.022872925, z: 0.43136597}
+  - {x: -0.81159973, y: 0.09739685, z: 3.7947693}
+  - {x: -3.5313873, y: -0.05014038, z: -0.41671753}
+--- !u!4 &2057979873
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2057979871}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 176.90645, y: -84.354645, z: 177.85995}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1250603382}
+  m_RootOrder: 160
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2064235039
 GameObject:
